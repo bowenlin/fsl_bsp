@@ -1549,4 +1549,5 @@ int do_run (cmd_tbl_t * cmdtp, int flag, int argc, char * const argv[])
 	}
 	return 0;
 }
+/**/
 #endif
