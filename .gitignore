@@ -92,4 +92,8 @@ GRTAGS
 GSYMS
 GTAGS
 
+<<<<<<< HEAD
+=======
+# added by Brad
+>>>>>>> ae9c68c7ae6f68a6fac52292836aac129906e32e
 /.pc/*

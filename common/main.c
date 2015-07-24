@@ -1549,5 +1549,8 @@ int do_run (cmd_tbl_t * cmdtp, int flag, int argc, char * const argv[])
 	}
 	return 0;
 }
+<<<<<<< HEAD
 /**/
+=======
+>>>>>>> ae9c68c7ae6f68a6fac52292836aac129906e32e
 #endif
